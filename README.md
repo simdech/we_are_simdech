@@ -1,1 +1,2 @@
-# we_are_simdech
+# We Are SimDech
+Marketing website for SimDech
